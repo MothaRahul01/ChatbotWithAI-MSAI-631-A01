@@ -1,3 +1,14 @@
+## References and Acknowledgements
+
+- This project is adapted from the Microsoft Bot Framework Echo Bot sample:
+  [https://github.com/microsoft/BotBuilder-Samples/tree/main/samples/python/02.echo-bot](https://github.com/microsoft/BotBuilder-Samples/tree/main/samples/python/02.echo-bot)
+
+- Sentiment analysis integration was added following Azure AI Services documentation:
+  [https://learn.microsoft.com/en-us/python/api/overview/azure/ai-textanalytics-readme?view=azure-python](https://learn.microsoft.com/en-us/python/api/overview/azure/ai-textanalytics-readme?view=azure-python)
+
+**Note:** This repository demonstrates following course instructions and tutorials. The code structure and concepts are adapted from the above references.
+
+
 ﻿# EchoBot
 
 Bot Framework v4 echo bot sample.
